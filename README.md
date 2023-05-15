@@ -7,11 +7,7 @@ https://terrible-tiny-tales-by-lucky.netlify.app/
 This is a React component that utilizes an URL to retrieve text data, carries out word frequency analysis on the data, and presents the results as a histogram via ApexCharts. Additionally, it offers the option to export the histogram data in CSV format.
 
 # Usage
-To utilize the Histogram component in our React component, we first import it into the file using the following code: import Button from './Button';. Then, we can incorporate the Histogram component into our React component's render method to render the histogram in the user interface
-
-
-
-
+To utilize the Histogram component in our React component, we first import it into the file using the following code: import Button from './Button';. Then, we can incorporate the Histogram component into our React component's render method to render the histogram in the user interface.
 function App() {
   return (
     <div className="App">
